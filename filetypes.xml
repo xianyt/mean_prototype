@@ -6,6 +6,7 @@
       <mapping pattern="w2w_adj" type="PLAIN_TEXT" />
       <mapping pattern="vocab" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="bak1" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
