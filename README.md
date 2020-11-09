@@ -1,5 +1,5 @@
 # Mean Prototypical Networks for Text Classification
-code for paper submit to CCL 2019
+code for paper “Mean Prototypical Networks for Text Classification”
 
 ## data preprocess
 `# python preprocess.py --dir data/ag_news_csv --one-based-class`
@@ -33,3 +33,11 @@ code for paper submit to CCL 2019
     --cuda
 
 ```
+
+## Cite
+
+If you use the code, please cite this paper:
+
+线岩团,相艳,余正涛,文永华,王红斌,张亚飞. 用于文本分类的均值原型网络[J]. 中文信息学报, 2020, 34(6): 73-80,88. 
+
+XIAN Yantuan, XIANG Yan, YU Zhengtao, WEN Yonghua, WANG Hongbin, ZHANG Yafei. Mean Prototypical Networks for Text Classification. , 2020, 34(6): 73-80,88.
