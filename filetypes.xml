@@ -13,6 +13,7 @@
       <mapping pattern="vocab" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="jl" type="PLAIN_TEXT" />
+      <mapping ext="utf8" type="PLAIN_TEXT" />
       <mapping ext="bak1" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
