@@ -1,7 +1,10 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="003cd099-3726-40bb-944d-f9cd3797f2bb" name="xianyt@222.197.219.29:22 password">
+      <webServer id="dd25900e-2996-463e-ba06-4cfb60406990" name="xianyt@222.197.219.29:22 password">
+        <fileTransfer accessType="SFTP" host="222.197.219.29" port="22" sshConfigId="a7823228-832c-443f-b2b0-22d675a5b862" sshConfig="xianyt@222.197.219.29:22 password" />
+      </webServer>
+      <webServer id="7af2dea5-7c0c-44b1-b381-bea9a7c356e8" name="xianyt@222.197.219.29:22 password">
         <fileTransfer accessType="SFTP" host="222.197.219.29" port="22" sshConfigId="a7823228-832c-443f-b2b0-22d675a5b862" sshConfig="xianyt@222.197.219.29:22 password" />
       </webServer>
     </option>
