@@ -1,17 +1,17 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="xxxx" type="AUTO_DETECTED" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="meta" type="PLAIN_TEXT" />
       <mapping pattern="valid" type="PLAIN_TEXT" />
-      <mapping pattern="jdbc:sqlite:metal_news_db" type="PLAIN_TEXT" />
-      <mapping pattern="metal_news_db" type="PLAIN_TEXT" />
-      <mapping pattern="w2w_adj" type="PLAIN_TEXT" />
       <mapping pattern="dict" type="PLAIN_TEXT" />
-      <mapping pattern="data_batch_1" type="PLAIN_TEXT" />
       <mapping pattern="vocab" type="PLAIN_TEXT" />
+      <mapping pattern="data_batch_1" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="jdbc:sqlite:metal_news_db" type="PLAIN_TEXT" />
+      <mapping pattern="w2w_adj" type="PLAIN_TEXT" />
+      <mapping pattern="meta" type="PLAIN_TEXT" />
+      <mapping pattern="metal_news_db" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="jl" type="PLAIN_TEXT" />
       <mapping ext="utf8" type="PLAIN_TEXT" />
