@@ -16,6 +16,7 @@
       <mapping ext="jl" type="PLAIN_TEXT" />
       <mapping ext="utf8" type="PLAIN_TEXT" />
       <mapping ext="bak1" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV file" />
