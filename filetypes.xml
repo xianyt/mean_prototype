@@ -4,14 +4,14 @@
     <extensionMap>
       <mapping pattern="stdout" type="AUTO_DETECTED" />
       <mapping pattern="xxxx" type="AUTO_DETECTED" />
-      <mapping pattern="valid" type="PLAIN_TEXT" />
       <mapping pattern="dict" type="PLAIN_TEXT" />
-      <mapping pattern="vocab" type="PLAIN_TEXT" />
-      <mapping pattern="data_batch_1" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="jdbc:sqlite:metal_news_db" type="PLAIN_TEXT" />
       <mapping pattern="w2w_adj" type="PLAIN_TEXT" />
       <mapping pattern="meta" type="PLAIN_TEXT" />
+      <mapping pattern="valid" type="PLAIN_TEXT" />
+      <mapping pattern="vocab" type="PLAIN_TEXT" />
+      <mapping pattern="data_batch_1" type="PLAIN_TEXT" />
       <mapping pattern="metal_news_db" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="jl" type="PLAIN_TEXT" />
