@@ -59,6 +59,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="bool.to" />
+        <option value="random.random.shuffle" />
       </list>
     </option>
   </inspection_tool>
