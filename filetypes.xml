@@ -15,6 +15,7 @@
       <mapping pattern="metal_news_db" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="jl" type="PLAIN_TEXT" />
+      <mapping ext="idx" type="PLAIN_TEXT" />
       <mapping ext="utf8" type="PLAIN_TEXT" />
       <mapping ext="bak1" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
