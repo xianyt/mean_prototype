@@ -1,6 +1,6 @@
 matplotlib
 cipy==0.1.0
-numpy==1.16.3
+numpy==1.22.0
 Pillow==6.0.0
 scipy==1.2.1
 six==1.12.0
