@@ -3,6 +3,8 @@
     <words>
       <w>logits</w>
       <w>prevs</w>
+      <w>toks</w>
+      <w>vlsp</w>
     </words>
   </component>
 </application>
