@@ -1,11 +1,5 @@
 <application>
-  <component name="TextDiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="Default">
-        <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
-        </PlaceSettings>
-      </entry>
-    </option>
+  <component name="ExternalDiffSettings">
+    <option name="MIGRATE_OLD_SETTINGS" value="true" />
   </component>
 </application>
