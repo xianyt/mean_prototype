@@ -33,6 +33,7 @@
         <option value="http://primefaces.org/ui" />
         <option value="http://tiles.apache.org/" />
         <option value="http://{}" />
+        <option value="http://faculty.marshall.usc.edu" />
       </list>
     </option>
   </inspection_tool>
