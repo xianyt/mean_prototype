@@ -5,6 +5,7 @@
       <w>bies</w>
       <w>logits</w>
       <w>lpos</w>
+      <w>preds</w>
       <w>prevs</w>
       <w>toks</w>
       <w>vlsp</w>
